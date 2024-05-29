@@ -11,3 +11,5 @@ Currently, two official plugins are available:
 Video Link - https://www.youtube.com/watch?v=9jRTo7ILxQc&t=483s&ab_channel=GreatStack
 
 To Run - npm run dev
+
+Live Link - https://food-delivery-app-shubham.netlify.app/
